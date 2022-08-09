@@ -1,0 +1,9 @@
+{ 
+    "days": [
+        { 
+            "id": 1,
+            "dayOfTheWeek": "Friday",
+            "proteinInGrams": 150
+        }
+    ]
+}

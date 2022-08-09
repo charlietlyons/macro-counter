@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { Thing } from "./component/Thing";
+import { Day } from "./component/Day";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(<Thing/>);
+root.render(<Day/>);
